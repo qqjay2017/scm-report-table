@@ -5,3 +5,7 @@
 ## License
 
 @core/scm-report-table is released under the MIT license.
+
+```js
+123;
+```

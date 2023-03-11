@@ -1,3 +1,4 @@
 // export this package's api
-import Trigger from './src/';
-export default Trigger;
+import ScmReportTable from './src/';
+export * from './src'
+export default ScmReportTable;
